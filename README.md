@@ -1,44 +1,31 @@
 # Hi, I’m Anita 👋
 
 ### Junior Data Scientist | Machine Learning & AI  
-*Aviation & mobility background*
+*Aviation & mobility background •• reliable working style •• effective both independently & within teams •• strong sense of responsibility*
 
 ---
 
-I’m a final-phase **BSc Data Science** student with **15+ years of professional experience**
-in the **airline industry**.
+I’m a final-phase **BSc Data Science** student with **15+ years of professional experience** in the **airline industry**.
 
-My focus is on **practical, applied data science**, transforming real-world data into
-**usable, optimized solutions**.
+My focus is on **practical, applied data science**, turning real-world data into **optimized, usable solutions**.
 
-Work is most effective in **focused, structured environments**, with fast learning through
-real projects and a strong focus on clear, reliable results.
-
----
-
-## • What I bring
-
-➜ Strong **domain expertise** in aviation, mobility, and customer operations  
-➜ Hands-on experience with **machine learning, NLP, and applied AI**  
-➜ Exposure to **model-to-production concepts** and data pipelines  
-➜ Reliable working style, effective both independently and within teams, with a strong sense of responsibility  
+Work is most effective in **focused, structured environments**, with fast learning and reliable delivery through real projects.
 
 ---
 
 ## • Selected project focus
 
-➜ Applied Machine Learning & Model-to-Production  
-➜ Natural Language Processing (NLP)  
-➜ Data Engineering & ML Pipelines  
-➜ Data Analysis & Visualization  
+➜ **Model-to-Production** (End-to-end ML pipeline with API-based deployment)  
+   *Python · scikit-learn · Flask · PostgreSQL · Docker (basic)*
 
----
+➜ **Natural Language Processing (NLP)** (Text classification and sentiment analysis)  
+   *Python · spaCy · Hugging Face Transformers & Datasets · PyTorch*
 
-## • Systems & tools
+➜ **Data Engineering** (Batch data ingestion and relational data handling)  
+   *Python · PostgreSQL · SQLAlchemy*
 
-➜ **Python-based data analysis**, machine learning, and NLP  
-➜ **Model-to-production concepts** and data pipelines  
-➜ **PostgreSQL**, **Git**, and basic **Docker** usage  
+➜ **Exploratory Data Analysis (EDA)** (Structured data exploration and visualization)  
+   *Python · Pandas · NumPy · Plotly · Matplotlib · Seaborn*
 
 ---
 
@@ -46,9 +33,6 @@ real projects and a strong focus on clear, reliable results.
 
 ➜ **Location**: Frankfurt am Main, Germany  
 ➜ **Languages**: German (native), English (fluent), Swedish (fluent)  
-➜ Open to **junior roles, working student positions, or internships**  
-➜ *Remote or hybrid preferred*  
+➜ Open to **junior roles, working student positions, or internships** •• *Remote or hybrid preferred*  
 
 ---
-
-*Turning data into practical, optimized solutions.*
