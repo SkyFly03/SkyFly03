@@ -33,6 +33,6 @@ Work is most effective in **focused, structured environments**, with fast learni
 
 ➜ **Location**: Frankfurt am Main, Germany  
 ➜ **Languages**: German (native), English (fluent), Swedish (fluent)  
-➜ Open to **junior roles, working student positions, or internships** •• *Remote or hybrid preferred*  
+➜ Open to **junior roles, working student positions, or internships** as part of my university studies•• *Remote or hybrid preferred*  
 
 ---
