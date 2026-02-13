@@ -5,7 +5,7 @@
 
 ---
 
-I’m a final-phase **BSc Data Science** student with **15+ years of professional experience** in the **airline industry**.
+I’m a final-phase **BSc Data Science** student.
 
 My focus is on **practical, applied data science**, turning real-world data into **optimized, usable solutions**.
 
